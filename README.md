@@ -23,3 +23,35 @@ Requerimientos de la página para completar
    - Sabado, 29 de Abril 2023: Primera muestra de primer prototipo basado en la página anterior.
 
   Avances por día - Segunda Fase: 
+  
+   - 1 de Mayo: 
+   - 2 de Mayo: 
+   - 3 de Mayo: 
+   - 4 de Mayo: 
+   - 5 de Mayo: 
+   - 6 de Mayo: 
+   - 7 de Mayo: 
+   - 8 de Mayo: 
+   - 9 de Mayo: 
+   - 10 de Mayo: 
+   - 11 de Mayo: 
+   - 12 de Mayo: 
+   - 13 de Mayo: 
+   - 14 de Mayo: 
+   - 15 de Mayo: 
+   - 16 de Mayo: 
+   - 17 de Mayo: 
+   - 18 de Mayo: 
+   - 19 de Mayo: 
+   - 20 de Mayo: 
+   - 21 de Mayo: 
+   - 22 de Mayo: 
+   - 23 de Mayo: 
+   - 24 de Mayo: 
+   - 25 de Mayo: 
+   - 26 de Mayo: 
+   - 27 de Mayo: 
+   - 28 de Mayo: 
+   - 29 de Mayo: 
+   - 30 de Mayo: 
+  
