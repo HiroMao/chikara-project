@@ -13,12 +13,11 @@ Requerimientos de la página para completar
   - Inicio del proyecto: (Sabado, 25, Abril del 2023)
   
   Avances por día: 
-   1. Primera Fase:
-    - Sabado, 22 de Abril: Ideas iniciales, layout (bocetos concepetuales y maqueta)
-    - Domingo, 23 de Abril: Implementación de Tailwind CSS con React+VITE.
-    - Lunes, 24 de Abril: Desarrollo primera parte - Banner de inicio.
-    - Martes, 25 de Abril: Continuación desarrollo primera parte. 
-    - Miercoles, 26 de Abril: Desarollo Segunda parte - Sección "Sobre Chikara"
-    - Jueves, 27 de Abril: Desarrollo de la Tercera parte - Secciones Canal de YouTube, Canal de Twitch, y contactanos.
-    - Viernes, 28 de Abril: Pruebas finales y terminaciones de primer prototipo.
-    - Sabado, 29 de Abril 2023: Primera muestra de primer prototipo basado en la página anterior.
+   - Sabado, 22 de Abril: Ideas iniciales, layout (bocetos concepetuales y maqueta)
+   - Domingo, 23 de Abril: Implementación de Tailwind CSS con React+VITE.
+   - Lunes, 24 de Abril: Desarrollo primera parte - Banner de inicio.
+   - Martes, 25 de Abril: Continuación desarrollo primera parte. 
+   - Miercoles, 26 de Abril: Desarollo Segunda parte - Sección "Sobre Chikara"
+   - Jueves, 27 de Abril: Desarrollo de la Tercera parte - Secciones Canal de YouTube, Canal de Twitch, y contactanos.
+   - Viernes, 28 de Abril: Pruebas finales y terminaciones de primer prototipo.
+   - Sabado, 29 de Abril 2023: Primera muestra de primer prototipo basado en la página anterior.
